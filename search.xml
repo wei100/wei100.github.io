@@ -2,7 +2,7 @@
 <search>
   <entry>
     <title>Java 8 新特性深入详解</title>
-    <url>/uncategorized/Java-8-%E6%96%B0%E7%89%B9%E6%80%A7%E6%B7%B1%E5%85%A5%E8%AF%A6%E8%A7%A3/</url>
+    <url>/%E6%8A%80%E6%9C%AF/Java-8-%E6%96%B0%E7%89%B9%E6%80%A7%E6%B7%B1%E5%85%A5%E8%AF%A6%E8%A7%A3/</url>
     <content><![CDATA[<p>本Java 8教程将会试图罗列出Java 8 的一些重要功能，并提供相应的示例帮助大家理解学习。 所有功能均具有指向详细教程的链接，例如<code>lambda表达式</code>，<code>Java streams</code>，<code>functional interfaces</code>和<code>date time API</code>。</p>
 <p>Java SE 8于2014年初发布。在Java 8中，讨论最多，日常项目中使用最多的功能是<strong>lambda</strong>表达式。 但是Java 8 同样引入了很多其他重要功能，例如默认方法，流API和新的日期&#x2F;时间API。 通过学习本教程，相信你对了解Java 8中的这些新功能有一个全面的认识和掌握。</p>
 <blockquote>
@@ -76,6 +76,9 @@
 <p>关于本主题欢迎留言评论，同时也非常欢迎您的来信交流Java方面的知识。</p>
 <p>新的一天，祝你学习愉快 ～</p>
 ]]></content>
+      <categories>
+        <category>技术</category>
+      </categories>
       <tags>
         <tag>Java8</tag>
         <tag>新特性</tag>
@@ -98,5 +101,10 @@
 
 <p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
 ]]></content>
+      <tags>
+        <tag>program</tag>
+        <tag>diary</tag>
+        <tag>web</tag>
+      </tags>
   </entry>
 </search>
